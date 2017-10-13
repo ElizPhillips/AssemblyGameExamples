@@ -1,3 +1,4 @@
+#Credit to Daylin Ettles and Johny Do
 .text
  li $a0, 1
   li $a1, 100 #1000 is 1sec
